@@ -21,4 +21,5 @@
 * Выводим новый массив на экран.
 
 Схема решения задачи:
+
 ![Схема](https://github.com/Vashtany/Kontr1/blob/main/Sxemakontr.png)
