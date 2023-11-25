@@ -21,4 +21,4 @@
 * Выводим новый массив на экран.
 
 Схема решения задачи:
-![Схема]()
+![Схема](https://drive.google.com/file/d/1IomTRn0eTKDT7EBmb8DK_gVMbHqWmCIA/view?usp=sharing)
