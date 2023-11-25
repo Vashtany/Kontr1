@@ -21,4 +21,4 @@
 * Выводим новый массив на экран.
 
 Схема решения задачи:
-![Схема](https://drive.google.com/file/d/1IomTRn0eTKDT7EBmb8DK_gVMbHqWmCIA/view?usp=sharing)
+![Схема]("D:\Гикбрейнс\Kontr1\Kontr1\Sxemakontr.png")
